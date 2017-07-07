@@ -22,6 +22,7 @@ https://www.macupdate.com
 
 ### Others
 
+- [ ] Chrome (https://www.google.com/chrome)
 - [ ] Homebrew (https://brew.sh)
 - [ ] Sublime Text 3 (https://www.sublimetext.com/3)
   - [ ] Package Control (https://packagecontrol.io/installation)
@@ -34,5 +35,9 @@ https://www.macupdate.com
 - [ ] nvm (https://github.com/creationix/nvm#installation)
 - [ ] yarn (https://yarnpkg.com/en/docs/install#homebrew)
 - [ ] Elm (https://guide.elm-lang.org/install.html)
+
+### Fun Shit
+
+- [ ] Bowtie [lastFM] (http://bowtieapp.com)
 
 
