@@ -12,6 +12,7 @@ Let's make a nice development environment.
 
 - [ ] XCode
 - [ ] 1Password
+- [ ] Transmit
 
 ### Mac Update
 
@@ -35,6 +36,7 @@ https://www.macupdate.com
 - [ ] nvm (https://github.com/creationix/nvm#installation)
 - [ ] yarn (https://yarnpkg.com/en/docs/install#homebrew)
 - [ ] Elm (https://guide.elm-lang.org/install.html)
+- [ ] Python (https://www.python.org/downloads)
 
 ### Fun Shit
 
