@@ -21,15 +21,15 @@ https://www.macupdate.com
 - [ ] Divvvy
 - [ ] A Better Finder Rename
 
-### Others
+### Direct
+
+#### Dev
 
 - [ ] Chrome (https://www.google.com/chrome)
 - [ ] Homebrew (https://brew.sh)
 - [ ] Sublime Text 3 (https://www.sublimetext.com/3)
   - [ ] Package Control (https://packagecontrol.io/installation)
   - [ ] Sync Settings (`GistId: 0f99dcc89f70cf54e2fdc568c73db479`)
-- [ ] Adobe (https://www.adobe.com/creativecloud/catalog/desktop.html)
-  - [ ] Illustrator
 - [ ] SourceTree (https://www.sourcetreeapp.com)
 - [ ] Hyper.js (https://hyper-updates.now.sh/download/mac)
 - [ ] Now.js (https://now-desktop-releases.zeit.sh/download/macos)
@@ -38,8 +38,11 @@ https://www.macupdate.com
 - [ ] Elm (https://guide.elm-lang.org/install.html)
 - [ ] Python (https://www.python.org/downloads)
 
-### Fun Shit
+#### Design
 
-- [ ] Bowtie [lastFM] (http://bowtieapp.com)
+- [ ] Adobe (https://www.adobe.com/creativecloud/catalog/desktop.html)
+  - [ ] Illustrator
 
+#### Fun Shit
 
+- [ ] Bowtie – LastFM (http://bowtieapp.com)
